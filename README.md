@@ -8,5 +8,3 @@
 <a href="https://twitter.com/RyanStrawser">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-<hr />
